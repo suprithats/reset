@@ -1,1 +1,2 @@
 am good fine
+ansible -m group ping all
